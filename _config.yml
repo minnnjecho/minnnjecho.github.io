@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Minje Cho / Site Title"
+title                    : "Minje Cho"
 title_separator          : "-"
 name                     : &name "Minje Cho"
 description              : &description "personal description"
