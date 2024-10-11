@@ -6,13 +6,13 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Minje_Cho.pdf
     
   - title: "Research"
     url: /research/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
   
   # - title: "Publications"
   #   url: /publications/
