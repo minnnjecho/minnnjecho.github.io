@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome!
 
 I am a Master's student at Korea University. My [research](https://minnnjecho.github.io/research/) addresses issues in health and public economics, focusing on how socio-environmental factors affect health and economic behaviors. Previously, I earned my B.A. in Economics and Statistics from Korea University.
 
