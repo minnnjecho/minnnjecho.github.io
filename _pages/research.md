@@ -10,7 +10,7 @@ author_profile: true
 (with Junghoon Park, Eunji Lee, Bo-Gyeom Kim, Gakyung Kim, Yoonjung Yoonie Joo and Jiook Cha) 
 
 ## Work in Progress
-**Economic Consequences After Tragedy Strikes: Evidence from the Itaewon Crowd Crush** [[link]](https://minnnjecho.github.io/files/v1_Itaewon.pdf) 
+**Economic Costs of a Social Tragedy: Evidence from the Itaewon Crowd Crush** [[link]](https://minnnjecho.github.io/files/v2_paper.pdf) 
 
 **The Effect of Air Quality Alerts on Consumption and Foot Traffic** \\
 (with Jongbin Lee) 
