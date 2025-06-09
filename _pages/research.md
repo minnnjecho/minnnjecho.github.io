@@ -13,8 +13,8 @@ author_profile: true
 **Economic Costs of a Social Tragedy: Evidence from the Itaewon Crowd Crush** \\
 (with Kanghyock Koh)
 
-**The Effect of Air Quality Alerts on Consumption and Foot Traffic** \\
-(with Jongbin Lee) 
-
 **External and Internal Margin Gains from Infrastructure Improvement**  \\
 (with [Wookun Kim](https://www.wookunkim.com/) and  Matthew Shapiro)
+
+**The Effect of Air Quality Alerts on Consumption and Foot Traffic** \\
+(with Jongbin Lee) 
