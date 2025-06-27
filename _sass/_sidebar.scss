@@ -79,8 +79,8 @@
 .author__avatar {
   display: table-cell; 
   vertical-align: top;
-  width: 60px;
-  height: 60px;
+  width: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -89,8 +89,6 @@
   }
 
   img {
-    width: 60px;    /* 모바일에서 정확한 크기 지정 */
-    height: 60px;   /* 모바일에서 정확한 크기 지정 */
     aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 50%;
