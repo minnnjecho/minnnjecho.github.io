@@ -76,57 +76,34 @@
    Author profile and links
    ========================================================================== */
 
+
+
 .author__avatar {
-  width: 70px;
-  height: 70px;
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
+   // display: table-cell;
+   display: flex;
+   flex-shrink: 0;
+   vertical-align: top;
+   width: 60px;
+   // set width only, for non-square avatars
+   height: 60px;
 
-  img {
-    width: 70px;
-    height: 70px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 1.5px solid #e2e2e2;
-    background: #fff;
-  }
-  @include breakpoint($large) {
-    width: 120px;
-    height: 120px;
-    img {
-      width: 120px;
-      height: 120px;
-    }
-  }
-}
+   @include breakpoint($large) {
+     display: block;
+     width: auto;
+     height: auto;
+   }
 
-// .author__avatar {
-//   // display: table-cell;
-//    display: flexbox;
+   img {
+    max-width: 175px;
+     aspect-ratio: 1 / 1;  // 높이 = 너비, 비율 1:1 유지 
+   object-fit: cover;
+   border-radius: 50%;
 
-//   vertical-align: top;
-//   width: 60px;
-//   // set width only, for non-square avatars
-//   height: 60px;
-
-//   @include breakpoint($large) {
-//     display: block;
-//     width: auto;
-//     height: auto;
-//   }
-
-//   img {
-//     max-width: 175px;
-//      aspect-ratio: 1 / 1;  // 높이 = 너비, 비율 1:1 유지 
-//     object-fit: cover;
-//     border-radius: 50%;
-
-//     @include breakpoint($large) {
-//       padding: 5px;
-//       border: 1px solid $border-color;
-//     }
-//   }
+   @include breakpoint($large) {
+    padding: 5px;
+      border: 1px solid $border-color;
+     }
+   }
 
    
   // img {
